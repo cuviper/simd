@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["avx",""],["sse2",""],["ssse3",""]]});
